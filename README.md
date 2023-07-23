@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am a computer engineering student.<br>📚 I am studying C, C# and Kotlin languages
+🎓 I am a computer engineering student.<br>📚 I am studying C, C# and Kotlin
 
 
 ## 🌐 Socials:
